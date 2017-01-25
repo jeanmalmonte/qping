@@ -1,0 +1,2 @@
+# qping
+Quick ping program
